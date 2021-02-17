@@ -5,3 +5,5 @@
 ||wattpad.com^
 ||tritondigital.com^
 ||quotev.com^
+||fanfiction.net
+||fanfiction.com^

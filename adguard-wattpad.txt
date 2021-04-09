@@ -13,3 +13,5 @@
 ||fanfictionrecommendations.freshdesk.com^
 ||fanfictionrecommendations.ck.page^
 ||tumblr.com^
+||bookriot.com^
+||archiveofourown.org^

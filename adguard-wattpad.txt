@@ -1,6 +1,6 @@
 # This blocklist helps Adguard admin restrict access to Facebook and its domains.
 # Curated from sources online.
-# Last updated: Apr 08 2021
+# Last updated: Apr 09 2021
 
 ||wattpad.com^
 ||tritondigital.com^
@@ -12,3 +12,4 @@
 ||harrypotterfanfiction.com^
 ||fanfictionrecommendations.freshdesk.com^
 ||fanfictionrecommendations.ck.page^
+||tumblr.com^
